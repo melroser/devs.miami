@@ -24,3 +24,8 @@ _testmain.go
 
 /public
 .DS_Store
+
+package-lock.json
+.hugo_build.lock
+
+/node_modules
