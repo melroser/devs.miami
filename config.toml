@@ -23,7 +23,7 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/wy-logo.svg"
+    main = "img/logo/logo.svg"
     alt = "Devs.Miami Logo"
 
     # The size parameter is the class name of tailwindcss
