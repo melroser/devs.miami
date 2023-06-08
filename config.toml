@@ -1,5 +1,5 @@
 baseURL = "https://devs.miami"
-title = "Devs.Miami Website"
+title = "Devs.Miami"
 author = "melroser"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -11,7 +11,7 @@ enableRobotsTXT = true
 # hasCJKLanguage = true
 
 # If you're using Google Analytics, you can enable this feature.
-# googleAnalytics = "UA-12345678-1"
+googleAnalytics = "G-TVBXEK65L2"
 
 # Disqus Comment System
 # disqusShortname = ""
@@ -38,12 +38,12 @@ enableRobotsTXT = true
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "Miami Based Software Engineering Talent"
+    meta_description = "Miami Based Software Engineers"
     meta_og_title = "Devs.Miami"
     meta_og_type = "website"
     meta_og_url = "https://devs.miami"
     meta_og_image = "https://raw.githubusercontent.com/melroser/devs.miami/master/images/tn.png"
-    meta_og_description = "We are a network of software engineers and tech proffessionals living in and around Miami."
+    meta_og_description = "We are a small network of software engineers and tech enthusiasts living in and around Miami."
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@elonmusk"
     meta_twitter_creator = "@elonmusk"
@@ -51,9 +51,9 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
     weight = 1
 
   [[menu.main]]
