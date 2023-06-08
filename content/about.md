@@ -1,10 +1,17 @@
 +++
 title = "About"
-description = "Devs.Miami is a network of software engineers and tech proffessionals living in and around Miami."
-date = "2019-02-28"
+description = "Devs.Miami Local Tech Experts"
+date = "2023-06-08"
 aliases = ["about-us", "about-hugo", "contact"]
 author = ["Rob"]
 +++
 
+We are a small network of software engineers and tech entrepreneurs living in and around Miami.
 
-[Rob](https://fullstack.lol)
+[Rob](https://rob.rip)
+
+[Gabe](https://fluffyguy.com/)
+
+[Dolce](https://maflowyoga.com/)
+
+Based in Brickell
