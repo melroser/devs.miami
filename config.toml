@@ -1,6 +1,6 @@
 baseURL = "https://devs.miami"
 title = "Devs.Miami"
-author = "melroser"
+author = "Robert Melrose"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -24,7 +24,7 @@ googleAnalytics = "G-TVBXEK65L2"
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Devs.Miami Logo"
+    alt = "Devs Miami Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
@@ -43,12 +43,17 @@ googleAnalytics = "G-TVBXEK65L2"
     meta_og_type = "website"
     meta_og_url = "https://devs.miami"
     meta_og_image = "https://raw.githubusercontent.com/melroser/devs.miami/master/images/tn.png"
-    meta_og_description = "We are a small network of software engineers and tech enthusiasts living in and around Miami."
+    meta_og_description = "A small network of software engineers and tech enthusiasts living in and around Miami."
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@elonmusk"
     meta_twitter_creator = "@elonmusk"
 
 [menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+      weight = 1
 
   [[menu.main]]
     identifier = "projects"

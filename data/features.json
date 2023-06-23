@@ -1,18 +1,18 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
+    "title": "Dynamic",
+    "description": "Our projects are reactive mobile friendly and beautiful to look at.",
     "icon": "icon-desktop_windows"
   },
   {
     "title": "Fast",
-    "description": "Light weight and fast loading speed.",
+    "description": "Optimitzed pages for a fast loading speed.",
     "icon": "icon-lightbulb_outline"
   },
   {
     "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
+    "description": "Please fork the Github repository and contribute to this page based off (Hugo theme tella)!",
     "icon": "icon-github",
-    "link": "https://github.com/opera7133/tella"
+    "link": "https://github.com/melroser/devs.miami"
   }
 ]

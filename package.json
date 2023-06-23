@@ -21,6 +21,6 @@
     "tailwindcss": "^3.1.6"
   },
   "dependencies": {
-    "package.json": "^2.0.1"
+    "package.json": "^0.0.0"
   }
 }
