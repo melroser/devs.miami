@@ -8,10 +8,10 @@ author = ["Rob"]
 
 We are a small network of software engineers and tech entrepreneurs living in and around Miami.
 
-[Rob](https://rob.rip)
+[Rob](https://melroser.com)
 
 [Gabe](https://fluffyguy.com/)
 
-[Dolce](https://maflowyoga.com/)
+[Dolce](https://debugdynasty.com)
 
 Based in Brickell
