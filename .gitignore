@@ -25,6 +25,8 @@ _testmain.go
 /public
 .DS_Store
 
+resources/_gen/assets/css/css/*
+
 package-lock.json
 .hugo_build.lock
 
