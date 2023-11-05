@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Devs.Miami Local Tech Experts"
-date = "2023-06-08"
+date = "2023-08-07"
 aliases = ["about-us", "about-hugo", "contact"]
 author = ["Rob"]
 +++
