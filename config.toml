@@ -1,4 +1,4 @@
-baseURL = "https://devs.miami"
+aseURL = "https://devs.miami"
 title = "Devs.Miami"
 author = "Robert Melrose"
 languageCode = "en"
@@ -8,7 +8,7 @@ theme = "tella"
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
-# hasCJKLanguage = true
+# hasCJKLanguage = false
 
 # If you're using Google Analytics, you can enable this feature.
 googleAnalytics = "G-TVBXEK65L2"

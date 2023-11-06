@@ -8,7 +8,7 @@ author = ["Rob"]
 
 Devs.Miami is a growing network of software engineers and tech entrepreneurs living in and around Miami.
 
-[Rob](https://fullstack.lol)
+[Rob](https://rob.rip)
 
 [Gabe](https://www.linkedin.com/in/gabriel-robayo-9629877/)
 

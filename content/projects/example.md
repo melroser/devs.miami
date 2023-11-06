@@ -1,10 +1,22 @@
 +++
+author = "Rob"
 title = "Example Project"
-date = "2023-03-23T12:33:45+10:00"
+date = "2023-11-05"
 draft = false
 featured = true
 weight = 1
 description = "This is our first example project."
+tags = [
+    "markdown",
+    "css",
+    "html",
+]
+categories = [
+    "themes",
+    "syntax",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
 +++
 
 # Heading
