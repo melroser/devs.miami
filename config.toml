@@ -1,4 +1,4 @@
-aseURL = "https://devs.miami"
+baseURL = "https://devs.miami"
 title = "Devs.Miami"
 author = "Robert Melrose"
 languageCode = "en"
