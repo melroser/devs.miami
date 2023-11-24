@@ -8,7 +8,7 @@ theme = "tella"
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
-# hasCJKLanguage = false
+# hasCJKLanguage = true
 
 # If you're using Google Analytics, you can enable this feature.
 googleAnalytics = "G-TVBXEK65L2"
@@ -18,7 +18,8 @@ googleAnalytics = "G-TVBXEK65L2"
 
 [params]
 
-  mainSections = ['blog']
+  showBlog = true
+  mainSections = ['projects', 'blog']
 
   googleFonts = true
 
@@ -49,11 +50,6 @@ googleAnalytics = "G-TVBXEK65L2"
     meta_twitter_creator = "@elonmusk"
 
 [menu]
-
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-      weight = 1
 
   [[menu.main]]
     identifier = "projects"

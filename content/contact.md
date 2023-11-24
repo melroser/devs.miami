@@ -6,6 +6,10 @@ aliases = ["contact-us", "contact-hugo", "contact"]
 author = ["Rob"]
 +++
 
-To contact us, please fill out the form below.
+
+To contact us, please send a message to:
+
+- {{< fa envelope >}} [Email](mailto:info@devs.miami)
+
 
 {{< form >}}
