@@ -9,7 +9,6 @@ author = ["Rob"]
 
 To contact us, please send a message to:
 
-- {{< fa envelope >}} [Email](mailto:info@devs.miami)
 
 
 {{< form >}}

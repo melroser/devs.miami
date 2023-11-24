@@ -3,7 +3,7 @@ title:  ""
 date: 2023-11-20T16:25:22-05:00
 image: "img/drone-talents.jpg"
 draft: false
-weight:   100
+weight: 1
 author:  "Dolce"
 ---
 
