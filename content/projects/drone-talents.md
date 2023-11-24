@@ -1,12 +1,11 @@
 ---
-title: ""
-date: 2023-11-10T01:17:59-05:00
+title:  ""
+date: 2023-11-20T16:25:22-05:00
 image: "img/drone-talents.jpg"
 draft: false
-weight: 100
-author: "Rob"
+weight:   100
+author:  "Dolce"
 ---
-
 
 # Drone Talents
 
@@ -41,6 +40,5 @@ DroneTalents isn't just another job board; it's a tailored platform for the dron
 As we continue to refine the authentication and Web API integration, I'm excited about the future possibilities for DroneTalents. The upcoming mobile application will bring a new level of accessibility to the drone job market, fostering connections and opportunities like never before.
 
 I invite each of you to explore dronetalents.com, share your feedback, and spread the word within our community. DroneTalents is not just a project; it's a collective effort to propel the drone industry forward, one job opportunity at a time.
-
 
 
