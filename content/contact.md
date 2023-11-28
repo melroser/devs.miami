@@ -7,7 +7,7 @@ author = ["Rob"]
 +++
 
 
-To contact us, please send a message to:
+To contact us, please send an email to info@devs.miami
 
 
 
