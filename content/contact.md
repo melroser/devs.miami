@@ -4,7 +4,7 @@ description = "Devs.Miami Brickell Tech Talent"
 date = "2023-11-05"
 draft=false
 aliases = ["contact-us", "contact-hugo", "contact"]
-author = [Rob"]
+author = ["Rob"]
 +++
 
 For general inquiries, please send an email to info@devs.miami
