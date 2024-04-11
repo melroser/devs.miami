@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Film.fyi"
 date: 2023-11-24T15:16:28-05:00
 image: "img/film-fyi.png"
 draft: false
