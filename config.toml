@@ -11,8 +11,8 @@ enableRobotsTXT = true
 # hasCJKLanguage = true
 
 # If you're using Google Analytics, you can enable this feature.
-googleAnalytics = "G-TVBXEK65L2"
-
+#googleAnalytics = "G-TVBXEK65L2"
+# Site.Config.Services.GoogleAnalytics.ID
 # Disqus Comment System
 # disqusShortname = ""
 
@@ -80,10 +80,8 @@ googleAnalytics = "G-TVBXEK65L2"
     name = "Home"
     url = "/"
       weight = 1
-
   [[menu.footer]]
     name = "Github"
     url = "https://github.com/melroser/devs.miami"
-    pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
-
+        pre = "<i class='icon-github text-2xl'></i>"
+        weight = 2
